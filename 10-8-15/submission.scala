@@ -24,7 +24,7 @@ object Firsthand { trait             f[▄,
               ╿▌▌▌▌▌▓      ,▓▌▌▌▌▌▌▌▌▌▌▌▌     ,▌▌▌,                     
                ▌▌▌▌▌╿[    ╝▓▌▌▌▌▌▌▌▌▌▌▌▌▌,    ▓▌▌],
                 █▌▌▌▓, ╒▓[▓▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌,   ▓▌▌▌,
-                 ▀▌▌▌,▓▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌,  ▓▌▌▀
+                 ▀▌▌▌,▓▌▌▌▌▌▌▓▌▌▌▌▌▌▌▌▌▌▌,  ▓▌▌▀
                    ,▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▀
                      ,█]]],▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌█▀
                          ,     ╘█▌▌▌██▀]
@@ -38,4 +38,4 @@ object Firsthand { trait             f[▄,
 // | scala> Firsthand.love
 // | res0: Firsthand.love.type = Firsthand$love$@412bbddb
 
-// see normal_spacing.scala to see the trait and constructed type demo in a single file with normal spacing and lines
+// see normal_spacing.scala for the trait and constructed type formatted with normal statement spacing and alignment
